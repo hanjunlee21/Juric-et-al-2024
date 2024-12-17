@@ -1,4 +1,4 @@
-## CDK2 inhibition demonstrates RB-independent clinical efficacy in CDK4/6 inhibitor-resistant HR-positive/HER2-negative breast cancer
+# CDK2 inhibition demonstrates RB-independent clinical efficacy in CDK4/6 inhibitor-resistant HR-positive/HER2-negative breast cancer
 
 # Authors
 Dejan Juric 1, Kazi N. Islam 1,2,\*, Ioanna Μ. Gkotinakou 1,2,\*, Alice Zheng 1,2, Hanjun Lee 2,3,4, Sneha Saxena 1,2, Johannes Kreuzer 1,2, Robert Morris 1,2, Connor G. McGrath 1,2, Nicholas Chevalier 1, Allison M. Kehlmann 1, Anastasia Stavridi 5, Shahein H. Tajmir 1, Marcello Stanzione 1,2, Eric Zaniewski 1,2, Sidney Mahan 6, Karl Hodel 7, Maci Meyers 7, Srihari Sampath 7, Christian Schmedt 7, Tun Tun Lin 8, Feng Liu 8, Todd VanArsdale 8, Steven J. Isakoff 1, Amy H. Comander 1, Janice S Kim 1, Seth A. Wander 1, Erik S. Knudsen 6, Agnieszka K. Witkiewicz 6, Lee Zou 1,2, Aaron N. Hata1,2,  Michael S. Lawrence 1,2,3, Wilhelm Haas 1,2, Andreas Varkaris 1,\#, Ioannis Sanidas 1,2,\#,†
